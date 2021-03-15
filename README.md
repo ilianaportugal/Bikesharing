@@ -12,7 +12,7 @@ The purpose of this analysis is to help investors interested in launching a bike
 
 <img src="Images/Checkout Times for Users.png" width="1000">
 
-The "Checkout Times for Users" chart tells us that most users have a trip duration of about 5 hours. The average trip duration is likely between 5-7 hours. The curve is right skewed, meaning the mode is higher than the mean. After 5 hours, the amount of trips slopes down.
+The "Checkout Times for Users" chart tells us that most users have a trip duration of about 5 hours. The average trip duration is likely between 5-7 hours. The curve is right skewed, meaning the mode is higher than the mean. After 5 hours, the amount of trips slopes down. This visual can aid us in product design and pricing. Investors need to ensure their bike is comfortable for all day use. The price of the bikesharing program should take into account trip duration, we should ask ourselves the question "what will our users be willing to pay for 5 hours of use?".
 
 ### Checkout Times by Gender
 
